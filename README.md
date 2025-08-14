@@ -34,10 +34,6 @@ With its streamlined workflow, Frooty Loops allows users to bring their musical 
 
 ---
 
-![Frooty Loops Interface](https://muxviz.net/wp-content/uploads/2020/12/FruityLoops.jpg)
-
----
-
 ## ⚙️ Key Features
 
 - Full-featured DAW for music production, mixing, and mastering  
